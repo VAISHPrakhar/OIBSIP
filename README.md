@@ -9,3 +9,4 @@ their password. This works similar to the random google password generator just 
 
 Task 3 : In this task i will be creating a program which tells us what the weather is in the selected area. It is not a live interactive 
 weather application/program but works for few regions for which the preset is defined.
+In this code I've used beautifulsoup library. It is a library that makes it easy to scrape information from web pages.
